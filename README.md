@@ -1,2 +1,2 @@
 # gitlearning
-this my git repository
+this is my git repository
